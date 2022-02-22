@@ -1,0 +1,5 @@
+.main {
+  background-color: tomato;
+
+  height: calc(100vh - 8rem);
+}
